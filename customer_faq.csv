@@ -1,0 +1,51 @@
+Question,Answer,Category
+How do I reset my password?,Click 'Forgot Password' on the login page and follow the instructions.,Account
+How can I change my username?,Go to account settings and edit your username.,Account
+How do I update my email address?,Navigate to profile settings and update your email.,Account
+How do I deactivate my account?,Contact support to deactivate your account safely.,Account
+How can I enable two-factor authentication?,Go to security settings and follow the 2FA setup guide.,Account
+How do I change my password?,Use 'Change Password' under security settings.,Account
+Can I merge two accounts?,Currently merging accounts is not supported. Contact support for alternatives.,Account
+How do I recover a deleted account?,"If recently deleted, contact support within 30 days.",Account
+How do I view my account activity?,Go to account dashboard and select 'Activity'.,Account
+How do I update personal information?,Edit your personal details in profile settings.,Account
+What is your refund policy?,Refunds are available within 30 days of purchase with a valid receipt.,Billing
+How do I update my payment method?,Go to billing settings and update your card or PayPal info.,Billing
+Can I get a partial refund?,Partial refunds are possible based on subscription terms.,Billing
+When will I be charged?,Billing occurs monthly on the subscription start date.,Billing
+How do I view my invoices?,Invoices can be downloaded from billing history.,Billing
+How do I apply a discount code?,Enter your promo code during checkout.,Billing
+What payment methods do you accept?,"We accept credit/debit cards, PayPal, and some local payment options.",Billing
+Can I switch my plan mid-cycle?,"Yes, you can upgrade or downgrade any time; billing adjusts automatically.",Billing
+How do I cancel my subscription?,Go to subscription settings and select 'Cancel Subscription'.,Billing
+Is my payment information secure?,All transactions are encrypted and secure.,Billing
+Why is my service not working?,Check your internet connection and service status.,Technical
+How do I troubleshoot login issues?,"Clear cache, reset password, or contact support.",Technical
+Why can't I access certain features?,Some features require upgraded plans.,Technical
+How do I fix app crashes?,Update to the latest version and restart your device.,Technical
+Why is my account locked?,Multiple failed login attempts may lock your account temporarily.,Technical
+How do I reset my device settings?,Follow the device reset guide in the help center.,Technical
+Why is my payment failing?,"Check card details, balance, and bank restrictions.",Technical
+How do I report a bug?,Submit a bug report via the support portal.,Technical
+Why is my email not verified?,Follow the verification link sent to your inbox.,Technical
+How do I update the app?,Go to your app store and install the latest update.,Technical
+What products do you offer?,We provide subscription-based streaming services and content packages.,Products/Services
+Do you offer student discounts?,"Yes, student discounts are available on annual subscriptions.",Products/Services
+Can I gift a subscription?,"Yes, gift subscriptions are available through our gift option.",Products/Services
+Are there family plans?,Family plans allow multiple profiles under one subscription.,Products/Services
+Can I download content for offline use?,"Yes, offline downloads are supported on mobile apps.",Products/Services
+Which devices are supported?,"Supported devices include iOS, Android, Smart TVs, and web browsers.",Products/Services
+Do you offer free trials?,Free trials are available for new users only.,Products/Services
+How many profiles can I create?,Up to 5 profiles per subscription.,Products/Services
+Can I watch on multiple devices at once?,Simultaneous streaming depends on your plan.,Products/Services
+Do you offer subtitles and dubbing?,"Yes, most content offers subtitles and multiple audio tracks.",Products/Services
+How do I contact support?,Email support@example.com or call 123-456-7890.,Support/Contact
+What are your support hours?,Support is available 24/7.,Support/Contact
+How can I chat with an agent?,Use the live chat feature on our website.,Support/Contact
+How long does it take to respond?,"Response times vary, typically within a few hours.",Support/Contact
+How do I escalate an issue?,Request escalation via email or support ticket.,Support/Contact
+Can I get help with setup?,"Yes, setup assistance is available via live chat.",Support/Contact
+How do I provide feedback?,Submit feedback through our online form.,Support/Contact
+Do you have a knowledge base?,"Yes, visit our help center for articles and guides.",Support/Contact
+How do I report inappropriate content?,Flag content via the app or website.,Support/Contact
+How do I request a callback?,Use the callback request form in support.,Support/Contact
